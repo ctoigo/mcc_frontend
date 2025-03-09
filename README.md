@@ -1,2 +1,7 @@
-# mcc_frontend
-MCC - Front-End Challenge
+```
+{
+  "email": "eve.holt@reqres.in",
+  "password": "pistol"
+}
+
+```
